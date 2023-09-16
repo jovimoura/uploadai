@@ -9,9 +9,9 @@ An application that allows for video uploads and, through AI, automatically crea
 
 ---
 
-<p align="left" style="font-style: italic;">
+<a href="https://www.linkedin.com/in/jovimoura10/" target="_blank" align="left" style="font-style: italic;">
   Developed by John
-</p>
+</a>
 
 <!--START_SECTION:footer-->
 ### Libs:
