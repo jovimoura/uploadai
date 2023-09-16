@@ -13,9 +13,6 @@ An application that allows for video uploads and, through AI, automatically crea
   Developed by John
 </p>
 
-<br />
-<br />
-
 <!--START_SECTION:footer-->
 ### Libs:
 
