@@ -18,6 +18,7 @@ An application that allows for video uploads and, through AI, automatically crea
 
 <ul>
     <li>React</li>
+    <li>Node</li>
     <li>Fastify</li>
     <li>Openai</li>
     <li>Wasm</li>
